@@ -48,9 +48,9 @@ The model is a simple RNN with the following structure:
 2. Place the raw text file in the data/ folder. The file should be named raw.txt.
 
 ## Training the model:
-Run the script in the terminal.
-```bash
-python main.py
+    Run the script in the terminal.
+    ```bash
+    python main.py
 
 ## Evaluation:
 The model will also automatically evaluate after main.py is called.
